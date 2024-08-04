@@ -23,5 +23,4 @@ Screenshots:
 
 ![Screenshot (901)](https://github.com/user-attachments/assets/5e3d3288-84fe-47cb-be9b-676b28b0002f)
 ![Screenshot (902)](https://github.com/user-attachments/assets/7c43be77-90c0-4d93-a1e3-6cddc7f71f14)
-![Screenshot (909)](https://github.com/user-attachments/assets/3b4c23dd-22fd-4517-a158-3a3e9c446aa2)
-![Screenshot (910)](https://github.com/user-attachments/assets/79248b80-2aa8-4fb6-b6d3-7671ae5935f6)
+
